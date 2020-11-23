@@ -1,12 +1,12 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "Dr. Clarissa Iole",
+        "paragraph": "Formada em Medicina pela Escola Bahiana de Medicina e Saúde Pública e especialista em Dermatologia em São Paulo no Hospital Heliópolis. Realizou diversos cursos nacionais e internacionais de especialização na área de Dermatologia Clínica e Estética."
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "Dra Clarissa Iole Iniciou sua carreira na Infectologia, com residência Médica realizada Hospital Espanhol mas, seguiu sua paixão, ingressou no Estágio em Dermatologia pela EBMSP (Escola Bahiana de Medicina)/ Hospital Santa Izabel 2012 a 2015. Ela é membro da Sociedade Brasileira de Cirurgia Dermatológica (SBCD), título de Especialista pela Sociedade Brasileira de Dermatologia em 2015- RQE 14.831",
         "Why": [
             "Lorem ipsum dolor",
             "Tempor incididunt",
@@ -22,8 +22,8 @@
     },
     "Services": [{
             "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Especialização",
+            "text": "Curso Avançado de Imersão em MMP - Microinfusão de Medicamentos na Pele e Outras Técnicas de Drug Delivery. Coordenação do Dr Samir Arbache -  São José dos Campos/ SP."
         },
         {
             "icon": "fa fa-cart-arrow-down",
@@ -114,23 +114,23 @@
     },
     "Features": [{
             "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Cirurgia Dermatológica",
+            "text": "Especializada em procedimentos diagnósticos, cirúrgicos, estéticos e oncológicos realizados na pele ou no tecido celular subcutâneo."
         },
         {
             "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Microinfusão de Medicamentos na Pele",
+            "text": "Procedimento baseado no uso de microagulhas, por onde são injetadas substâncias específicas, diretamente nos locais a serem tratados."
         },
         {
             "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Dermatoscopia",
+            "text": "Exame realizado fotos de toda a pele do paciente (mapeamento corporal total), permitindo, em exames subsequentes, a identificação de novas pintas ou mudanças no aspecto macroscópico das pintas já documentadas."
         },
         {
             "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Rejuvenescimento Íntimo",
+            "text": "Procedimentos que podem ser realizados com objetivos, médicos ou estéticos na vulva, grandes lábios, pequenos lábios e vagina."
         }
     ]
 }
